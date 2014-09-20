@@ -1,22 +1,24 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      true
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
-baseurl:          http://obishop89.github.io/
+title:            Random Stuff
+tagline:          'Olivia blogs'
+description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://obishop89.github.io
+baseurl:          'http://obishop89.github.io/'
+paginate:         5
+
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           'Olivia Bishop'
+  url:            https://obishop89.github.io
 
 # Custom vars
 version:          1.0.0
+
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/obishop89/obishop89.github.io
