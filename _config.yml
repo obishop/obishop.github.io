@@ -6,9 +6,8 @@ highlighter:      true
 permalink:        pretty
 
 # Setup
-title:            Random Stuff
-tagline:          'Olivia blogs'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Olivia Bishop
+description:      'Android engineer'
 url:              http://obishop89.github.io
 baseurl:          'http://obishop89.github.io/'
 paginate:         5
