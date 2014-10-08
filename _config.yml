@@ -8,16 +8,16 @@ permalink:        pretty
 # Setup
 title:            Olivia Bishop
 description:      'Android engineer at Facebook'
-url:              http://obishop89.github.io
-baseurl:          'http://obishop89.github.io/'
+url:              http://obishop.github.io
+baseurl:          'http://obishop.github.io/'
 paginate:         5
 
 author:
   name:           'Olivia Bishop'
-  url:            https://obishop89.github.io
+  url:            https://obishop.github.io
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/obishop89/obishop89.github.io
+  repo:           https://github.com/obishop/obishop.github.io
